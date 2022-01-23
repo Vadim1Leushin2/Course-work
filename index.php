@@ -19,7 +19,7 @@ $object = mysqli_fetch_array($result);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="main1.css">
 
 
     <title>Курсовая работа</title>
@@ -109,7 +109,9 @@ $object = mysqli_fetch_array($result);
     </k>
 </body>
 <footer>
-
+        <p class="main_text">Сайт предназначен для определения места зарядки автомобиля</br> 
+                                    относительно вашего местоположения и Административного округа</p>
+        <p class="cc">Выполнил Леушин Вадим группа 201-361</p>
 </footer>
 
 </html>

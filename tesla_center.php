@@ -19,7 +19,7 @@ $object = mysqli_fetch_array($result);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="tesla.css">
+    <link rel="stylesheet" href="tesla1.css">
     
     <title>Tesla</title>
 
@@ -130,5 +130,6 @@ $object = mysqli_fetch_array($result);
         ?>
 </body>
 <footer>
+<img src="tesla.png" alt="">
 </footer>
 </html>  

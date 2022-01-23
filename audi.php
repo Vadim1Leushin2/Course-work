@@ -19,7 +19,7 @@ $object = mysqli_fetch_array($result);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="audi.css">
+    <link rel="stylesheet" href="audi1.css">
     
     <title>Audi</title>
 
@@ -32,6 +32,7 @@ $object = mysqli_fetch_array($result);
                     <div class="col-md-12">
                         <div class="menu">
                             <ul>
+                                
                                 <li><a href="index.php">Главная страница</a></li>
                                 <li><a href="tesla.php">Tesla</a></li>
                                 <li><a href="nissan.php">Nissan</a></li>
@@ -126,5 +127,7 @@ $object = mysqli_fetch_array($result);
         ?>
 </body>
 <footer>
+    <img src="audi.png" alt="">
+    <p></p>
 </footer>
 </html>

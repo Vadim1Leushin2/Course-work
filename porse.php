@@ -19,7 +19,7 @@ $object = mysqli_fetch_array($result);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="porshe.css">
+    <link rel="stylesheet" href="porshe1.css">
     
     <title>Porshe</title>
 
@@ -129,5 +129,6 @@ $object = mysqli_fetch_array($result);
         ?>
 </body>
 <footer>
+    <img src="porshe.png" alt="">
 </footer>
 </html>
